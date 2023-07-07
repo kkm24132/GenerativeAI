@@ -20,7 +20,28 @@
     - Convolutional Neural Networks (CNNs)
     - Generating Text with RNNs
     - Generating Images with CNNs  
-- 
-
+- **Google: Intro Generative AI courses**
+  - Please [refer here](https://www.cloudskillsboost.google/paths/118)   
+- **Udemy**
+  - [Generative AI for Creative Applications](https://www.udemy.com/course/generative-ai/)
+  - Key topics covered:
+    - Introduction to Generative AI for Creative Applications
+    - Generative Adversarial Networks (GANs)
+    - Variational Autoencoders (VAEs)
+    - Creating Art with GANs
+    - Creating Music with VAEs  
+- **Udacity**
+  - Please [refer here](https://www.udacity.com/course/building-generative-adversarial-networks--cd1823)
+  - Key topics covered:
+    - Introduction to GANs
+    - The Generator
+    - The Discriminator
+    - Training GANs
+    - Applications of GANs  
 
 ### Use Cases
+
+### References
+
+- [TeachFX Explainer Video](https://www.youtube.com/watch?v=QIL6mQGDTME) - Personalized feedback for teachers. Reflect on rich, research-based, classroom-level insights. Support every teacher to superpower their own practice and transform how learning happens.
+- 
