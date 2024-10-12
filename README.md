@@ -1,5 +1,7 @@
 ## GenerativeAI
 
+For Primers - I suggest to focus on solid foundation before just jumping on to advanced areas of Data Science, always. It helps in building our understanding better and more importantly "applicability"!!
+
 ### Top Courses to Learn about Generative AI
 
 - **Stanford University: Deep Learning for Generative Models**
