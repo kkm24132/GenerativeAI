@@ -7,7 +7,7 @@ Here are few key pointers for initial foundation to note:
 - Core Software Engineering Skills: AI engineering is as much about writing scalable, maintainable code as it is about developing models. Be proficient in Python, and also understand the importance of unit testing, debugging, and deploying applications on cloud (Docker, Kubernetes).
 - Delve into Embedding Models: Embedding models (e.g., Word2Vec, BERT) are key to NLP applications. Learn how embeddings represent words or data in a dense vector space and how they capture semantic meaning. Experiment with building and fine-tuning models, understanding loss functions, and embedding techniques for both NLP and non-NLP use cases.
 - Understand GenAI beyond Chatbots: GenAI is not just about creating RAG chatbots. It includes models like GPT, BERT, and Stable Diffusion, used for generating text, images, and more. You need to grasp the Deep Learning architecture behind these models (Transformers, self attention, positional encoding), training processes, and applications, as well as their limitations (e.g., hallucinations, bias).
-- Get Hands-On Experience: Apply your knowledge to real-world problems. Build projects that include end-to-end pipelines (data collection, preprocessing, model fine-tuning, GenAI model evaluation, and deployment).
+- Get Hands-On Experience: Apply your knowledge to specific use cases. Build projects that include end-to-end pipelines (data collection, preprocessing, model fine-tuning, GenAI model evaluation, and deployment).
 - Learn about GenAI’s Ethical Implications: Generative AI has its pros (automation, personalization) but also has serious concerns (hallucinations, deepfakes, biases). Understand these challenges and how to mitigate them.
 
 
