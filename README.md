@@ -34,7 +34,9 @@ Here are few key pointers for initial foundation to note:
     - Generating Images with CNNs  
 - **Google: Intro Generative AI courses**
   - Please [refer here](https://www.cloudskillsboost.google/paths/118)   
-- [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
+- **Books on Generative AI and NLP**
+  - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
+  - [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://www.amazon.com.au/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889)
 - 
 - **Udemy**
   - [Generative AI for Creative Applications](https://www.udemy.com/course/generative-ai/)
