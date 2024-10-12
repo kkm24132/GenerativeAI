@@ -37,7 +37,8 @@ Here are few key pointers for initial foundation to note:
 - **Books on Generative AI and NLP**
   - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
   - [Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models](https://www.amazon.com.au/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889)
-- 
+  - [Transformers for Natural Language Processing - Second Edition: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4](https://www.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1803247339)
+ 
 - **Udemy**
   - [Generative AI for Creative Applications](https://www.udemy.com/course/generative-ai/)
   - Key topics covered:
