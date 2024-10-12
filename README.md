@@ -56,9 +56,14 @@ Here are few key pointers for initial foundation to note:
     - Training GANs
     - Applications of GANs  
 
-### Use Cases
+### Attention mechanism
+
+The "Attention Mechanism" in transformers is the backbone of all Generative AI models. It may seem magical to someone jumping into the subject, but this concept did not appear from nothing. To understand the evolution of Attention mechanism, here are few foundational papers that explain the concepts that paved the way for modern transformer architectures.
+- [Long Short-term memory RNN](https://arxiv.org/abs/2105.06756)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [Sequence to Sequence Learning with Neural Nets](https://arxiv.org/abs/1409.3215)
+
 
 ### References
 
 - [TeachFX Explainer Video](https://www.youtube.com/watch?v=QIL6mQGDTME) - Personalized feedback for teachers. Reflect on rich, research-based, classroom-level insights. Support every teacher to superpower their own practice and transform how learning happens.
-- 
