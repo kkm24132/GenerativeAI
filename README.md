@@ -56,6 +56,73 @@ Here are few key pointers for initial foundation to note:
     - Training GANs
     - Applications of GANs  
 
+- **Courses from NVIDIA**
+  - Generative AI Explained (Learn how to:) [refer here](https://lnkd.in/gBb3peXi)
+    - Define Generative AI and explain how Generative AI works
+    - Describe various Generative AI applications
+    - Explain the challenges and opportunities in Generative AI
+  - AI for All: From Basics to GenAI Practice [refer here](https://lnkd.in/gXmmnC4G)
+    - AI impacts industries like healthcare and autonomous vehicles
+    - From machine learning to generative AI
+    - GenAI creates music, images, and videos
+  - Getting Started with AI on Jetson Nano (Learn how to:) [refer here](https://lnkd.in/gnmrhBJm)
+    - Set up your Jetson Nano and camera
+    - Collect image data for classification models
+    - Annotate image data for regression models
+    - Train a neural network on your data to create your models
+
+4. Building A Brain in 10 Minutes
+
+You'll learn:
+
+• How neural networks use data to learn
+• Understand the math behind a neuron
+
+https://lnkd.in/gCaA-XKp
+
+
+5. Building Video AI Applications on Jetson Nano:
+
+Learn to:
+
+• Create DeepStream pipelines for video processing
+• Handle multiple video streams
+• Use alternate inference engines like YOLO
+
+https://lnkd.in/gNffgw5C
+
+
+6. Building RAG Agents with LLMs
+
+Learning Objectives:
+
+• Explore scalable deployment strategies
+• Learn about microservices and development
+• Experiment with LangChain paradigms for dialog management
+• Practice with state-of-the-art models
+
+https://lnkd.in/gcK2ZJ4a
+
+
+7. Accelerate Data Science Workflows with Zero Code Changes
+
+In this course you will:
+
+• Learn the benefits of unified CPU and GPU workflows
+• GPU-accelerate data processing and machine learning
+• See faster processing times with GPU
+
+https://lnkd.in/gF7eVk2V
+
+
+9. Introduction to AI in the Data Center
+
+• Basics of AI, machine learning, and GPU architecture
+• Deep learning frameworks and AI workload deployment
+• Learn about multi-system AI clusters and infrastructure planning
+
+https://lnkd.in/gKTS6uMS 
+
 ### Attention mechanism
 
 The "Attention Mechanism" in transformers is the backbone of all Generative AI models. It may seem magical to someone jumping into the subject, but this concept did not appear from nothing. To understand the evolution of Attention mechanism, here are few foundational papers that explain the concepts that paved the way for modern transformer architectures.
