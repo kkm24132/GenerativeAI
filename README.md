@@ -70,24 +70,13 @@ Here are few key pointers for initial foundation to note:
     - Collect image data for classification models
     - Annotate image data for regression models
     - Train a neural network on your data to create your models
-
-4. Building A Brain in 10 Minutes
-
-You'll learn:
-
-• How neural networks use data to learn
-• Understand the math behind a neuron
-
-https://lnkd.in/gCaA-XKp
-
-
-5. Building Video AI Applications on Jetson Nano:
-
-Learn to:
-
-• Create DeepStream pipelines for video processing
-• Handle multiple video streams
-• Use alternate inference engines like YOLO
+  - Building A Brain in 10 Minutes [refer here](https://lnkd.in/gCaA-XKp)
+    - How neural networks use data to learn
+    - Understand the math behind a neuron
+  - Building Video AI Applications on Jetson Nano:
+    - Create DeepStream pipelines for video processing
+    - Handle multiple video streams
+    - Use alternate inference engines like YOLO
 
 https://lnkd.in/gNffgw5C
 
