@@ -73,25 +73,15 @@ Here are few key pointers for initial foundation to note:
   - Building A Brain in 10 Minutes [refer here](https://lnkd.in/gCaA-XKp)
     - How neural networks use data to learn
     - Understand the math behind a neuron
-  - Building Video AI Applications on Jetson Nano:
+  - Building Video AI Applications on Jetson Nano: [refer here](https://lnkd.in/gNffgw5C)
     - Create DeepStream pipelines for video processing
     - Handle multiple video streams
     - Use alternate inference engines like YOLO
-
-https://lnkd.in/gNffgw5C
-
-
-6. Building RAG Agents with LLMs
-
-Learning Objectives:
-
-• Explore scalable deployment strategies
-• Learn about microservices and development
-• Experiment with LangChain paradigms for dialog management
-• Practice with state-of-the-art models
-
-https://lnkd.in/gcK2ZJ4a
-
+  - Building RAG Agents with LLMs [refer here](https://lnkd.in/gcK2ZJ4a)
+    - Explore scalable deployment strategies
+    - Learn about microservices and development
+    - Experiment with LangChain paradigms for dialog management
+    - Practice with state-of-the-art models
 
 7. Accelerate Data Science Workflows with Zero Code Changes
 
