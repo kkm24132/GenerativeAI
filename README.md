@@ -10,8 +10,6 @@ Here are few key pointers for initial foundation to note:
 - Get Hands-On Experience: Apply your knowledge to specific use cases. Build projects that include end-to-end pipelines (data collection, preprocessing, model fine-tuning, GenAI model evaluation, and deployment).
 - Learn about GenAI’s Ethical Implications: Generative AI has its pros (automation, personalization) but also has serious concerns (hallucinations, deepfakes, biases). Understand these challenges and how to mitigate them.
 
-
-
 ### Recommended Learning / Top Courses to Learn about Generative AI
 
 - **Stanford University: Deep Learning for Generative Models**
@@ -82,25 +80,14 @@ Here are few key pointers for initial foundation to note:
     - Learn about microservices and development
     - Experiment with LangChain paradigms for dialog management
     - Practice with state-of-the-art models
-
-7. Accelerate Data Science Workflows with Zero Code Changes
-
-In this course you will:
-
-• Learn the benefits of unified CPU and GPU workflows
-• GPU-accelerate data processing and machine learning
-• See faster processing times with GPU
-
-https://lnkd.in/gF7eVk2V
-
-
-9. Introduction to AI in the Data Center
-
-• Basics of AI, machine learning, and GPU architecture
-• Deep learning frameworks and AI workload deployment
-• Learn about multi-system AI clusters and infrastructure planning
-
-https://lnkd.in/gKTS6uMS 
+  - Accelerate Data Science Workflows with Zero Code Changes [refer here](https://lnkd.in/gF7eVk2V)
+    - Learn the benefits of unified CPU and GPU workflows
+    - GPU-accelerate data processing and machine learning
+    - See faster processing times with GPU
+  - Introduction to AI in the Data Center [refer here](https://lnkd.in/gKTS6uMS)
+    - Basics of AI, machine learning, and GPU architecture
+    - Deep learning frameworks and AI workload deployment
+    - Learn about multi-system AI clusters and infrastructure planning
 
 ### Attention mechanism
 
