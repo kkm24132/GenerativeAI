@@ -111,6 +111,6 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
   - LangChain: Framework for building applications that leverage LLMs in workflows (e.g., multi-step reasoning).
   - Pinecone / Weaviate: Vector databases for semantic search and context management.
   - LlamaIndex (formerly GPT Index): Tools for connecting LLMs with data sources and custom document contexts.
-  - DeepSeek API and coder: AI-powered code generation and analysis [Paper:DeepSeek-Coder](https://arxiv.org/abs/2401.14196) [Git](https://github.com/deepseek-ai/DeepSeek-Coder)
+  - DeepSeek API and coder: AI-powered code generation and analysis [Paper:DeepSeek-Coder](https://arxiv.org/abs/2401.14196) and [Git Ref](https://github.com/deepseek-ai/DeepSeek-Coder)
 
 
