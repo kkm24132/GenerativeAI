@@ -100,3 +100,16 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
 ### References
 
 - [TeachFX Explainer Video](https://www.youtube.com/watch?v=QIL6mQGDTME) - Personalized feedback for teachers. Reflect on rich, research-based, classroom-level insights. Support every teacher to superpower their own practice and transform how learning happens.
+- Text Based Applications:
+  - ChatGPT (OpenAI): Versatile conversational AI for general assistance, creative writing, and problem-solving.
+  - Jasper: AI-powered content creation tool for marketing, blogs, and social media.
+  - Writesonic: AI writer for generating articles, product descriptions, and advertisements.
+  - Copy.ai: Tool for copywriting, email drafts, and brainstorming ideas.
+  - Claude (Anthropic): Ethical, thoughtful conversational AI alternative to GPT models.
+- Developer & Automation Tools:
+  - OpenAI API (GPT models): Integration of language models into applications.
+  - LangChain: Framework for building applications that leverage LLMs in workflows (e.g., multi-step reasoning).
+  - Pinecone / Weaviate: Vector databases for semantic search and context management.
+  - LlamaIndex (formerly GPT Index): Tools for connecting LLMs with data sources and custom document contexts. 
+
+
