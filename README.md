@@ -110,6 +110,8 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
   - Pinecone / Weaviate: Vector databases for semantic search and context management.
   - LlamaIndex (formerly GPT Index): Tools for connecting LLMs with data sources and custom document contexts.
   - DeepSeek API and coder: AI-powered code generation and analysis [Paper on DeepSeek-Coder](https://arxiv.org/abs/2401.14196) and [Git Ref](https://github.com/deepseek-ai/DeepSeek-Coder)
-  - Examples of [AI multi-agent solutions](https://github.com/viktoriasemaan/multi-agent) 
+  - Examples of [AI multi-agent solutions](https://github.com/viktoriasemaan/multi-agent)
+  - You can [open your AWS free tier account](https://aws.amazon.com/free/) and pay as per use if you are actually using storage and compute
+  - Great collection of [Amazon Nova Foundation Models](https://aws.amazon.com/ai/generative-ai/nova/)
 
 
