@@ -113,5 +113,5 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
   - Examples of [AI multi-agent solutions](https://github.com/viktoriasemaan/multi-agent)
   - You can [open your AWS free tier account](https://aws.amazon.com/free/) and pay as per use if you are actually using storage and compute
   - Great collection of [Amazon Nova Foundation Models](https://aws.amazon.com/ai/generative-ai/nova/)
-
+- A reference on [AI performance engineering](https://github.com/cfregly/ai-performance-engineering)
 
