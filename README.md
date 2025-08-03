@@ -11,7 +11,6 @@ Here are few key pointers for initial foundation to note:
 - Learn about GenAI’s Ethical Implications: Generative AI has its pros (automation, personalization) but also has serious concerns (hallucinations, deepfakes, biases). Understand these challenges and how to mitigate them.
 
 ### Recommended Learning / Top Courses to Learn about Generative AI
-
 - **Stanford University: Deep Learning for Generative Models**
   - Covers the basics of Deep Learning and how to apply it to Generative models.
   - At Stanford University, an informative course is offered on the fundamental principles of deep learning and its application to generative models. The curriculum delves into various types of deep learning architectures, including CNNs and RNNs, and teaches the methodology of using them for creating generative models. Please [refer here](https://deepgenerativemodels.github.io/2019/)
@@ -96,7 +95,6 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
 - [Sequence to Sequence Learning with Neural Nets](https://arxiv.org/abs/1409.3215)
 
 ### References
-
 - [TeachFX Explainer Video](https://www.youtube.com/watch?v=QIL6mQGDTME) - Personalized feedback for teachers. Reflect on rich, research-based, classroom-level insights. Support every teacher to superpower their own practice and transform how learning happens.
 - Text Based Applications:
   - ChatGPT (OpenAI): Versatile conversational AI for general assistance, creative writing, and problem-solving.
