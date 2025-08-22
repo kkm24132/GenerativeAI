@@ -88,8 +88,11 @@ Here are few key pointers for initial foundation to note:
     - Deep learning frameworks and AI workload deployment
     - Learn about multi-system AI clusters and infrastructure planning
 
-[Generative AI for Everyone - from Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
-[Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
+Generative AI Basic Learning references:
+-
+- [Generative AI for Everyone - from Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
+- [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
+- [The building Block of Gen AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 
 ### Attention mechanism
 The "Attention Mechanism" in transformers is the backbone of all Generative AI models. It may seem magical to someone jumping into the subject, but this concept did not appear from nothing. To understand the evolution of Attention mechanism, here are few foundational papers that explain the concepts that paved the way for modern transformer architectures.
