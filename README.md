@@ -122,3 +122,9 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
 - Another great reference on practical use cases [500 AI Agent Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 - A reference on [AI performance engineering](https://github.com/cfregly/ai-performance-engineering)
 
+### Agentic AI Focus
+- [Kaggle 5-day AI agents intensive learning](https://www.kaggle.com/learn-guide/5-day-agents)
+- [W&B AI Engineering: Agents (architecture + patterns + evals)](https://wandb.ai/site/courses/agents/)
+- [DeepLearning AI Evaluating AI Agents (observability/evals mindset)](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
+
+
