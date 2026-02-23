@@ -126,5 +126,8 @@ The "Attention Mechanism" in transformers is the backbone of all Generative AI m
 - [Kaggle 5-day AI agents intensive learning](https://www.kaggle.com/learn-guide/5-day-agents)
 - [W&B AI Engineering: Agents (architecture + patterns + evals)](https://wandb.ai/site/courses/agents/)
 - [DeepLearning AI Evaluating AI Agents (observability/evals mindset)](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
+- [DeepLearning AI Agentic AI (Andrew Ng)](https://learn.deeplearning.ai/courses/agentic-ai/information)
+- [AI Agents in LangGraph (controllability/state/HITL)](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- [LangSmith Essentials / Agent Observability](https://academy.langchain.com/)
 
 
