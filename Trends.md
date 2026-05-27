@@ -53,35 +53,32 @@ Vector databases such as:
 
 are increasingly core infrastructure.
 
-3. Smaller specialized models gaining traction
+### 3. Smaller specialized models gaining traction
 
 Trend:
-
-smaller domain-specific models
+  - smaller domain-specific models
 instead of:
-only giant frontier models
+  - only giant frontier models
 
 Why:
-
-lower cost
-lower latency
-on-prem deployment
-privacy
-edge AI
+  - lower cost
+  - lower latency
+  - on-prem deployment
+  - privacy
+  - edge AI
 
 Examples:
-
 distilled models
 fine-tuned domain models
 local enterprise models
 
 This is important for regulated sectors:
-
 government
 education
 banking
 healthcare
-4. Enterprise AI governance becoming mandatory
+
+### 4. Enterprise AI governance becoming mandatory
 
 Strong movement toward:
 
@@ -101,7 +98,7 @@ AI observability
 
 Privacy-aware AI pipelines are becoming mainstream.
 
-5. Multimodal AI is accelerating
+### 5. Multimodal AI is accelerating
 
 LLMs are increasingly handling:
 
@@ -122,18 +119,15 @@ image-grounded assistants
 
 Multimodal RAG is becoming a major area.
 
-6. Context engineering replacing “prompt engineering”
+### 6. Context engineering replacing “prompt engineering”
 
 Industry focus is shifting from:
-
-clever prompts
+  - clever prompts
 
 to:
-
-context management systems
+  - context management systems
 
 Key concepts:
-
 memory
 retrieval orchestration
 knowledge grounding
@@ -143,7 +137,7 @@ semantic chunking
 
 This is becoming one of the most critical enterprise AI disciplines.
 
-7. AI copilots embedded into workflows
+### 7. AI copilots embedded into workflows
 
 AI is increasingly embedded inside:
 
@@ -160,7 +154,7 @@ invisible workflow infrastructure
 
 rather than standalone chatbot interfaces.
 
-8. Synthetic data and AI evaluation frameworks growing
+### 8. Synthetic data and AI evaluation frameworks growing
 
 Organisations are realizing:
 building GenAI systems is easier than evaluating them.
@@ -173,7 +167,8 @@ synthetic datasets
 AI red teaming
 response quality scoring
 grounding evaluation
-9. Open-source GenAI ecosystem expanding rapidly
+
+### 9. Open-source GenAI ecosystem expanding rapidly
 
 Open-source momentum is huge:
 
@@ -192,7 +187,7 @@ DSPy
 
 This is reducing dependency on proprietary stacks.
 
-10. Real-time AI + streaming architectures
+### 10. Real-time AI + streaming architectures
 
 Increasing need for:
 
@@ -206,7 +201,8 @@ fraud detection
 operational monitoring
 copilots
 personalized recommendations
-11. AI infrastructure engineering becoming strategic
+
+### 11. AI infrastructure engineering becoming strategic
 
 New enterprise stack includes:
 
@@ -219,28 +215,25 @@ observability platforms
 
 “AI Engineering” is now becoming a separate discipline from classical ML engineering.
 
-12. Human-AI collaboration models becoming central
+### 12. Human-AI collaboration models becoming central
 
 Best systems are increasingly:
-
-augmented intelligence
+  - augmented intelligence
 rather than:
-fully autonomous AI
+  - fully autonomous AI
 
 Strong trend toward:
-
-review loops
-discussant models
-expert oversight
-AI-assisted decision support
+  - review loops
+  - discussant models
+  - expert oversight
+  - AI-assisted decision support
 
 Very important in:
-
-government
-education
-healthcare
-legal
-compliance
+  - government
+  - education
+  - healthcare
+  - legal
+  - compliance
 
 
 
