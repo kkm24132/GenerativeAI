@@ -17,5 +17,5 @@ For **Embedding Models**, start with the following:
   - [Voyage AI](https://www.voyageai.com/)
   - [Hugging Face Embeddings](https://huggingface.co/blog/getting-started-with-embeddings)
 
-
+Good reference - to check how to choose the [Best Embedding Model for RAG in 2026: 10 Models Benchmarked](https://milvus.io/blog/choose-embedding-model-rag-2026.md) 
 
