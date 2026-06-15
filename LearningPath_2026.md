@@ -12,7 +12,7 @@
   - Context windows
   - Reasoning models
 
-##### Best Free Resource: [Andrej Karparthy: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+##### Best Resource: [Andrej Karparthy: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 Especially focus on Micrograd, GPT from scratch, Tokenization, Attention
 
@@ -25,7 +25,7 @@ Especially focus on Micrograd, GPT from scratch, Tokenization, Attention
   - Embeddings
   - Evaluation
 
-##### Best Free Resource: [Deep Learning.ai Short Courses](https://www.deeplearning.ai/courses) , [Secondly, refer to fast.ai for cool and uncool Neural Nets all the time](fast.ai)
+##### Best Resource: [Deep Learning.ai Short Courses](https://www.deeplearning.ai/courses) , [Secondly, refer to fast.ai for cool and uncool Neural Nets all the time](fast.ai)
 
 Particularly focus on learning: Building Systems with ChatGPT, LangChain for LLM Applications, LangGraph for Agentic Workflows, Evaluating AI Agents, Multi-Agent Systems, RAG Fundamentals
 
@@ -53,32 +53,50 @@ We need to try to build: Research agent, Analytics agent, BI copilot, Data quali
 
 Reading by multiple industry helps.
 
-##### Education:
+###### Education:
   - Student support assistants
   - Teacher copilots
   - Assessment generation
 
-##### Government:
+###### Government:
   - Policy Q&A
   - Records management
   - Metadata classification
   - Citizen service assistants
 
-##### Banking & FS:
+###### Banking & FS:
   - KYC
   - Fraud investigation
   - Customer service copilots
   - Credit assessment support
 
-##### Healthcare:
+###### Healthcare:
   - Clinical note summarization
   - Coding assistants
   - Medical knowledge retrieval
 
+##### Good resources: [NVIDIA AI Blueprints](https://build.nvidia.com/) , contains many real-world architectures
 
+#### 5. Production AI Architecture
 
+##### Focus & Learn:
+  - Observability
+  - Hallucination management
+  - Guardrails
+  - AI Governance
+  - Evaluation frameworks
+  - Security
 
+##### Best Resources: 
+  - [LangSmith Documentation](https://docs.langchain.com/langsmith/home)
+  - [OpenAI Cookbook](https://developers.openai.com/cookbook)
+  - [MSFT AI Architecture Center](https://learn.microsoft.com/en-gb/azure/architecture/ai-ml/)
 
+#### 5. Additional Stanford Lecture Notes
+
+##### Focus & Learn:
+  - [CS224N](https://web.stanford.edu/class/cs224n/)
+  - [CS25](https://web.stanford.edu/class/cs25/)
 
 
 
