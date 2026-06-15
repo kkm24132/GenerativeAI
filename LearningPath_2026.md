@@ -12,7 +12,7 @@
   - Context windows
   - Reasoning models
 
-##### Best Free Resource: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+##### Best Free Resource:[Andrej Karparthy: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 Especially focus on Micrograd, GPT from scratch, Tokenization, Attention
 
